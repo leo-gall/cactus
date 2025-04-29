@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   cactus_flutter:
-    path: ../flutter
+    path: ../../flutter
   path_provider: ^2.0.15
   path: ^1.8.3
   cupertino_icons: ^1.0.5
